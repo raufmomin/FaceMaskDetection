@@ -1,11 +1,13 @@
-# Face Mask Detection using CNN
+# Face Mask Detection
 
-Author: Rauf Momin
+Author: Rauf Momin <br>
+License: MIT License <br>
+Email: raufmomin26@gmail.com <br>
 
-License: MIT License
+## Model Details:
+-> Multi-task Cascaded Convolutional Neural Networks (MTCNN) for Faces Localization <br>
+-> Custom CNN for Image Classification 
 
-Email: raufmomin26@gmail.com
 
-# Dataset download source:
-
+## Dataset download source:
 Link: https://www.kaggle.com/ashishjangra27/face-mask-12k-images-dataset
